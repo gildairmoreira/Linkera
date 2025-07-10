@@ -1,0 +1,14 @@
+{
+    "host": "https://api.us-east.tinybird.co",
+    "id": "6312a201-a44b-425e-af39-7a450b67c496",
+    "name": "linkera",
+    "scope": "user",
+    "token": "p.eyJ1IjogIjYzMTJhMjAxLWE0NGItNDI1ZS1hZjM5LTdhNDUwYjY3YzQ5NiIsICJpZCI6ICJmZWM5YTczNC0zZTk3LTQxNjMtYmQxMS00NjA1NGVjOTdkYjUiLCAiaG9zdCI6ICJ1c19lYXN0In0.dSxRI-PHIfd04-kCXinjkA6TR1MxJp2dtpP8FZUbzBg",
+    "tokens": {
+        "https://api.us-east.tinybird.co": "p.eyJ1IjogIjYzMTJhMjAxLWE0NGItNDI1ZS1hZjM5LTdhNDUwYjY3YzQ5NiIsICJpZCI6ICJmZWM5YTczNC0zZTk3LTQxNjMtYmQxMS00NjA1NGVjOTdkYjUiLCAiaG9zdCI6ICJ1c19lYXN0In0.dSxRI-PHIfd04-kCXinjkA6TR1MxJp2dtpP8FZUbzBg"
+    },
+    "user_email": "gildair457@gmail.com",
+    "user_id": "6d309d58-41f6-4c4a-92e6-7344b0c720f4",
+    "user_token": "p.eyJ1IjogIjZkMzA5ZDU4LTQxZjYtNGM0YS05MmU2LTczNDRiMGM3MjBmNCIsICJpZCI6ICIyMTc1MDhjOS04ZTVkLTQyZGUtODNkNS05M2ZiNTA0YmY0MDUiLCAiaG9zdCI6ICJ1c19lYXN0In0.hry9hy3iMkeBjJc-KF0fnAR1pfxBFpBM7Fdys0veTFk",
+    "version": "0.0.1.dev253"
+}
